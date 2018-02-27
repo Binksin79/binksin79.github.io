@@ -1,0 +1,40 @@
+html{
+    background: url("http://www.spyderonlines.com/images/trees_nature_night_planet_birds_landscape_20199.jpg");
+}
+
+div.container{
+    width: 100%;
+}
+
+div.spaceholder{
+    background-color: rgba(109, 87, 87, 0.445);
+    float: left;
+    color: #FFF;
+    height: 50px;
+    margin: 0;
+    width:50%;
+}
+
+div.make-a-nav-bar{  
+    background-color: rgba(109, 87, 87, 0.445);
+    color: rgb(224, 204, 204);
+    height: 50px;
+    float: right;
+    width: 50%;
+}
+
+div.make-a-nav-bar li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 100px;
+    text-align: right;    
+}
+
+h1.Name{
+    margin: 0;
+
+}
+
+div.image{
+    width: 100%;
+}
