@@ -15,7 +15,7 @@ div.spaceholder{
     width:50%;
 }
 
-div.make-a-nav-bar{  
+nav.nav-bar{  
     background-color: rgba(109, 87, 87, 0.445);
     color: rgb(224, 204, 204);
     height: 50px;
@@ -23,13 +23,18 @@ div.make-a-nav-bar{
     width: 50%;
 }
 
-div.make-a-nav-bar li{
+nav.nav li{
     list-style: none;
     display: inline-block;
     margin-right: 100px;
-    text-align: right;    
+    text-align: right; 
+    color: rgb(224, 204, 204);
+
 }
 
+h1{
+    color: #FFF;
+}
 h1.Name{
     margin: 0;
 
@@ -37,4 +42,20 @@ h1.Name{
 
 div.image{
     width: 100%;
+}
+
+#about{
+    background-color: rgb(190, 59, 59);
+}
+
+#skills{
+    background-color: rgb(38, 24, 102);
+}
+
+#portfolio{
+    background-color: rgba(42, 163, 48, 0.521);
+}
+
+#contact{
+    background-color: rgba(100, 11, 63, 0.425);
 }
